@@ -34,7 +34,7 @@ public class LoginPage {
 	public void passward(){
 	passward.sendKeys("vishAL@1235");
 	}
-	public void signInSubmit(){
+	public void signInSubmit12(){
 	signInSubmit.click();
 	}
 }	
